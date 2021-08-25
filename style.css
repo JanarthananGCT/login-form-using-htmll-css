@@ -1,0 +1,49 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(43deg, rgba(2,0,36,1) 0%, rgba(235,4,199,0.05646008403361347) 0%, rgba(0,228,210,1) 0%, rgba(248,35,222,1) 61%, rgba(158,0,255,1) 72%, rgba(68,187,172,1) 100%, rgba(145,150,143,1) 100%);
+}
+div{
+    text-align: center;
+    margin: 0 auto;
+    width: 60%;
+    height: 489px;
+    margin-top: 80px;
+    background-color: white;
+    border-radius: 40px;
+    background: rgb(2,0,36);
+    background: linear-gradient(43deg, rgba(2,0,36,1) 0%, rgba(235,4,199,0.05646008403361347) 0%, rgba(0,228,210,1) 0%, rgba(248,35,222,1) 61%, rgba(158,0,255,1) 72%, rgba(68,187,172,1) 100%, rgba(145,150,143,1) 100%);
+}
+#word{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color: darkturquoise;
+}
+#username,#password{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: darkmagenta;
+    margin-top: 80px;
+    margin-right: 50%;
+    width: 40%;
+    height: 30px;
+    border-radius: 10px;
+    box-shadow: none;
+    background: rgb(2,0,36);
+    background: linear-gradient(43deg, rgba(2,0,36,1) 0%, rgba(235,4,199,0.05646008403361347) 0%, rgba(0,228,210,1) 0%, rgba(248,35,222,1) 61%, rgba(158,0,255,1) 72%, rgba(68,187,172,1) 100%, rgba(145,150,143,1) 100%);
+    
+    
+}
+
+#button{
+    margin-top: 80px;
+    margin-right: 70%;
+    width: 20%;
+    height: 40px;
+    border-radius: 30px;
+    border-color: white;
+    background: rgb(2,0,36);
+    background: linear-gradient(43deg, rgba(2,0,36,1) 0%, rgba(235,4,199,0.05646008403361347) 0%, rgba(0,228,210,1) 0%, rgba(248,35,222,1) 61%, rgba(158,0,255,1) 72%, rgba(68,187,172,1) 100%, rgba(145,150,143,1) 100%);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    
+}
